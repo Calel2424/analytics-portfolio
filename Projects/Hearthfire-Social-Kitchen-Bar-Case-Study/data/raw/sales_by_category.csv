@@ -1,0 +1,18 @@
+Category,Item,Price_USD,COGS_USD,Margin_Pct,Units_Sold
+Cocktails,Old Fashioned,14,3.50,75,120
+Cocktails,Spicy Margarita,13,3.25,75,98
+Cocktails,Seasonal Spritz,12,2.75,77,86
+Beer,IPA Draft,8,3.00,62,140
+Beer,Lager Draft,7,2.50,64,132
+Wine,Chardonnay Glass,11,4.25,61,90
+Wine,Pinot Noir Glass,12,4.75,60,84
+Entrees,Halibut Special,28,14.00,50,46
+Entrees,Short Rib Gnocchi,26,13.00,50,72
+Entrees,Smash Burger,17,5.00,71,118
+Entrees,Grilled Chicken Plate,19,6.00,68,104
+Apps,Calamari,13,4.00,69,82
+Apps,House Fries,8,2.25,72,126
+Desserts,Chocolate Torte,10,2.75,73,64
+Desserts,Seasonal Cobbler,11,3.00,73,54
+NA_Beverages,Citrus Cooler,7,1.25,82,48
+NA_Beverages,House Lemonade,6,1.00,83,56
