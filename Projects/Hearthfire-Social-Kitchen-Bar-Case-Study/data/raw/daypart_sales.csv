@@ -1,0 +1,22 @@
+Day,Daypart,Covers,Sales_USD
+Monday,Happy Hour,42,812
+Monday,Dinner,58,1310
+Monday,Late Night,22,286
+Tuesday,Happy Hour,46,870
+Tuesday,Dinner,44,998
+Tuesday,Late Night,18,210
+Wednesday,Happy Hour,54,950
+Wednesday,Dinner,63,1380
+Wednesday,Late Night,20,260
+Thursday,Happy Hour,61,1120
+Thursday,Dinner,78,1640
+Thursday,Late Night,30,360
+Friday,Happy Hour,85,1520
+Friday,Dinner,122,2650
+Friday,Late Night,52,620
+Saturday,Happy Hour,74,1380
+Saturday,Dinner,115,2400
+Saturday,Late Night,49,590
+Sunday,Happy Hour,58,1090
+Sunday,Dinner,90,1780
+Sunday,Late Night,14,160
