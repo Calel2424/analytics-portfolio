@@ -20,7 +20,6 @@ The analysis includes:
 This case study represents **end-to-end analytical thinking** without relying on complex tooling — focusing instead on how an analyst identifies patterns, tells the story behind the numbers, and proposes high-impact operational improvements.
 
 ---
-
 ## 🎯 Project Goals  
 - Demonstrate structured analytical thinking  
 - Show real-world business problem solving  
@@ -32,29 +31,27 @@ This case study represents **end-to-end analytical thinking** without relying on
 ---
 
 ## 📁 Project Structure  
-
+```txt
 Hearthfire-Social-Kitchen-Bar-Case-Study/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── analysis/
-│   ├── executive-summary.md
-│   ├── insights-and-findings.md
-│   ├── recommendations.md
-│   └── visuals/
-│
-├── assets/
-│   └── images/
-│
-└── notebooks/
-
-
----
-
+|
+|-- README.md
+|
+|-- data/
+|   |-- raw/
+|   `-- processed/
+|
+|-- analysis/
+|   |-- executive-summary.md
+|   |-- insights-and-findings.md
+|   `-- recommendations.md
+|
+|-- visuals/
+|
+|-- assets/
+|   `-- images/
+|
+`-- notebooks/
+```
 ## 📊 Key Outputs  
 
 ### **Executive Summary**  
